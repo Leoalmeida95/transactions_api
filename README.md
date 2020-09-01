@@ -38,9 +38,11 @@ A ação disponível para esse recurso é:
 
 2º Entre no diretório 
 
-3º Execute o comando `make run` 
+3º Entre na pasta 'api'
 
-4º Ao final do processo o console deve ficar igual a imagem abaixo: 
+4º Execute o comando `make run` 
+
+5º Ao final do processo o console deve ficar igual a imagem abaixo: 
 
 ![terminal](https://user-images.githubusercontent.com/25140680/91764694-24a74400-ebae-11ea-95fe-7cae4a254aeb.png)
 
