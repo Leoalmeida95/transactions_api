@@ -1,0 +1,7 @@
+version: "3"
+services:
+  api:
+    image: 'gb_api'
+    container_name: gb_api
+    ports:
+      - 8080:8080
